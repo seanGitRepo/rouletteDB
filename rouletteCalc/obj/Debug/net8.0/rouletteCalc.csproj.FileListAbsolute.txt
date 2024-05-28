@@ -1,0 +1,14 @@
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\bin\Debug\net8.0\rouletteCalc.exe
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\bin\Debug\net8.0\rouletteCalc.deps.json
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\bin\Debug\net8.0\rouletteCalc.runtimeconfig.json
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\bin\Debug\net8.0\rouletteCalc.dll
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\bin\Debug\net8.0\rouletteCalc.pdb
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.AssemblyInfoInputs.cache
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.AssemblyInfo.cs
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.csproj.CoreCompileInputs.cache
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.dll
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\refint\rouletteCalc.dll
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.pdb
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\rouletteCalc.genruntimeconfig.cache
+C:\Users\seans\Desktop\tafe\coding\rouletteCalc\rouletteCalc\obj\Debug\net8.0\ref\rouletteCalc.dll
